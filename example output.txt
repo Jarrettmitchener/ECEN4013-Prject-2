@@ -1,0 +1,15 @@
+Good GPGGA Fix:      f
+Time:                f
+Satellites:          f
+Latitude:            f
+Longitude:           f
+Elevation MSL (m):   f
+X accel (m/s^2):     f
+Y accel (m/s^2):     f
+Z accel (m/s^2):     f
+X Mag (uT):          f
+Y Mag (uT):          f
+Z Mag (uT):          f
+X Gyro (rps.):       f
+Y Gyro (rps.):       f
+Z Gyro (rps.):       f
